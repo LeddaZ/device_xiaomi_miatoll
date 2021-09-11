@@ -15,7 +15,7 @@
     "remote": "github",
     "repository": "LeddaZ/vendor_xiaomi_miatoll",
     "target_path": "vendor/xiaomi/miatoll",
-    "branch": "flos"
+    "branch": "fluid-11"
   },
   {
     "remote": "github",
